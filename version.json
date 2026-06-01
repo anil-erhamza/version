@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "win":      "https://github.com/AnilErhamza/UI_release/releases/download/v0.2.0/ErpimusUI-Setup-0.2.0.exe",
-  "macIntel": "https://github.com/AnilErhamza/ErpimusUI/releases/download/v0.2.0/ErpimusUI-0.2.0-x64.dmg",
-  "macArm":   "https://github.com/AnilErhamza/ErpimusUI/releases/download/v0.2.0/ErpimusUI-0.2.0-arm64.dmg"
+  "version": "0.3.0",
+  "win":      "https://github.com/AnilErhamza/UI_release/releases/download/v0.3.0/ErpimusUI-Setup-0.3.0.exe",
+  "macIntel": "https://github.com/AnilErhamza/UI_release/releases/download/v0.2.0/ErpimusUI-0.2.0-x64.dmg",
+  "macArm":   "https://github.com/AnilErhamza/UI_release/releases/download/v0.3.0/ErpimusUI-0.3.0-arm64.dmg"
 }
